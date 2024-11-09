@@ -1,5 +1,11 @@
-const AboutPage = () => {
-  return <div>About page</div>
+
+
+async function AboutPage () {
+  return (
+    <div>
+     about page
+    </div>
+  )
 }
 
 export default AboutPage
